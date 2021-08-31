@@ -1,9 +1,9 @@
 package routes
 
 import (
-	"Go_server/auth"
-	"Go_server/database"
-	"Go_server/model"
+	"Hands_On/auth"
+	"Hands_On/database"
+	"Hands_On/model"
 	"net/http"
 
 	"github.com/gin-gonic/gin"

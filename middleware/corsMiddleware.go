@@ -1,8 +1,8 @@
 package middleware
 
 import (
-	"Go_server/auth"
-	"Go_server/model"
+	"Hands_On/auth"
+	"Hands_On/model"
 
 	"github.com/gin-gonic/gin"
 )

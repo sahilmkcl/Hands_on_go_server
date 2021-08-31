@@ -1,8 +1,8 @@
 package main
 
 import (
-	"Go_server/middleware"
-	"Go_server/routes"
+	"Hands_On/middleware"
+	"Hands_On/routes"
 
 	"github.com/gin-gonic/gin"
 )

@@ -1,4 +1,4 @@
-module Go_server
+module Hands_On
 
 go 1.15
 

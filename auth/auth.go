@@ -1,7 +1,7 @@
 package auth
 
 import (
-	"Go_server/model"
+	"Hands_On/model"
 	"fmt"
 	"os"
 	"time"
